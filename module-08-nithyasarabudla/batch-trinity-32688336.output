@@ -1,0 +1,27 @@
+Starting our analysis Sun Nov 20 19:28:09 EST 2022
+Loading our BINF6308 Anaconda environment, which includes Trinity.
+Could not find conda environment: BINF-12-2021
+You can list all discoverable environments with `conda info --envs`.
+
+Loading samtools.
+Make directory for data files
+Moving trimmed FASTQ data to the working directory
+cp: cannot stat ‘/home/sarabudla.n/AiptasiaRNASeq/data/trimmed’: No such file or directory
+Moving alignment files to working directory
+cp: cannot stat ‘/home/sarabudla.n/AiptasiaRNASeq/data/bam’: No such file or directory
+cp: cannot stat ‘/home/sarabudla.n/AiptasiaRNASeq/data/sam’: No such file or directory
+Make directory for log files
+Starting Guided Assembly Sun Nov 20 19:28:11 EST 2022
+Merge all BAM alignment files Sun Nov 20 19:28:11 EST 2022
+Assemble the Guided Transcriptome Sun Nov 20 19:28:11 EST 2022
+Analyze the Guided Transcriptome Sun Nov 20 22:03:51 EST 2022
+Guided Assembly complete Sun Nov 20 22:03:54 EST 2022
+Starting De Novo Assembly Sun Nov 20 22:03:54 EST 2022
+Assemble the De Novo Transcriptome Sun Nov 20 22:03:54 EST 2022
+Analyze the De Novo Transcriptome Mon Nov 21 03:50:16 EST 2022
+De Novo Assembly complete Mon Nov 21 03:50:19 EST 2022
+Moving key files back to /home
+cp: cannot create directory ‘/home/sarabudla.n/AiptasiaRNASeq/data/trinity_guided’: No such file or directory
+cp: cannot create directory ‘/home/sarabudla.n/AiptasiaRNASeq/data/trinity_de_novo’: No such file or directory
+cp: target ‘/home/sarabudla.n/AiptasiaRNASeq/data/’ is not a directory
+Assemblies complete Mon Nov 21 03:50:19 EST 2022

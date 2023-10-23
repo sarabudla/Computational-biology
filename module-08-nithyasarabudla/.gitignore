@@ -1,0 +1,16 @@
+*.*
+!*.R
+!*.png
+!*.py
+!*.sh
+!*.Rmd
+!*.md
+!.gitignore
+!*.jpg
+!*.ris
+!*.log
+!*.err
+!*.txt
+!batch*.output
+
+data/*

@@ -1,0 +1,12 @@
+Running interleaved.py on 2022-10-13 15:44:17.307160
+
+**** Summary of arguments ****
+Mate1 file: data/Aip15.R1.fastq
+Mate2 file: data/Aip15.R2.fastq
+Output file: results/Aip15.interleaved.fasta
+
+
+Opening FASTQ mate-pair files: data/Aip15.R1.fastq and data/Aip15.R2.fastq
+Interleaving the two FASTQ files.
+Writing interleaved data to: results/Aip15.interleaved.fasta
+Script has finished at 2022-10-13 15:45:17.407460

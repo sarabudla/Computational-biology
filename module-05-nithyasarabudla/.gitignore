@@ -1,0 +1,12 @@
+*.*
+!*.R
+!*.png
+!*.py
+!*.sh
+!*.Rmd
+!*.md
+!.gitignore
+!*.jpg
+!*.ris
+!results/logs/*.log
+!data/top24_Aip02.R?.fastq
